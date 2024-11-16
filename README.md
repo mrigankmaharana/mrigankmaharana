@@ -1,16 +1,30 @@
-## Hi there 👋
+**Hey I'm Mrigank "Mk" Maharana👋🏾**
 
-<!--
-**mrigankmaharana/mrigankmaharana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergrad at UT Dallas, with a passion for the research and development of clinically approved neural interfaces.
+- Checkout my [website](https://mkmaharana.com/) to learn more about me!
 
-Here are some ideas to get you started:
+# 📄 Professional Certifications
+`Google Project Management` `Autodesk Inventor Certified User`
+# 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages** : `Python` `MATLAB` `C/C++`  `Java`
+
+**Software** : `SOLIDWORKS` `Inventor` `AutoCAD` 
+
+**Web-Development** : `Javascript` `HTML` `CSS`
+
+**Project Management**: `Waterfall` `Agile` `Scrum` `Lean` `Six Sigma` 
+
+**Laboratory** : `Vivo/Vitro` `Neural Recording/Stimulation` `Biochemistry` `Electrochemistry` `Electrophysiology` `Electroencephalogram(EEG)` `Sutures` `Histology` `Urodynamics` `Animal Models` `Drawing/Making Injectable Solutions` `Microfabrication` `Intraperitoneal Injections` `Microscopy` `Soldering`
+
+**Others** : `Visual3D` `Vicon Nexus` `LEGSys` `BioWare` `EmotivPRO` `EmotivBCI`
+
+# ✨ Fun Facts
+
+- I've played the guitar for the past 8 years.
+- I've wanted to be a biomedical engineer since I was 12.
+- I love playing pickleball, volleyball, and soccer.
+
+# 📫 Contact
+
+For a quick response, connect & DM me on [LinkedIn](https://www.linkedin.com/in/mrigankmaharana/).
